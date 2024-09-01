@@ -1,0 +1,265 @@
+body {
+    margin: 10px 50px 0px 50px;
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.navbar {
+    background-color: white;
+}
+
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: transparent !important;
+}
+
+.icon {
+    margin-right: 10px;
+    margin-bottom: 5px;
+    width: 25px;
+}
+
+.d-flex > a {
+    margin: 0px 40px 0px 40px;
+    font-size: 25px;
+}
+
+/* Style the button */
+.btn.btn-outline-success {
+    color: #000; /* Text color */
+    border-color: #000; /* Border color */
+    font-size: 20px;
+}
+
+/* Change the background color when the button is hovered or focused */
+.btn.btn-outline-success:hover,
+.btn.btn-outline-success:focus {
+    color: #fff; /* Text color when hovered/focused */
+    background-color: #000; /* Background color when hovered/focused */
+    border-color: #000; /* Border color when hovered/focused */
+}
+
+.second
+{
+    display: flex;
+}
+
+.secondfirst {
+    padding-left: 0; 
+    padding-left: 0;
+    margin-left: 6px;
+}
+
+.secondfirst li {
+    list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
+}
+
+
+.secondfirst li:first-child {
+    font-size: 65px;
+    font-weight: bold;
+    line-height: 76px;
+    margin-bottom: 20px;
+}
+
+.secondfirst li:nth-child(2) {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.secondfirst li:nth-child(3) {
+    font-size: 20px;
+}
+
+div .second {
+    margin-left: 0px;
+}
+.second button
+{
+    color: white;
+    background-color: black;
+    padding: 15px 30px 15px 30px;
+    height: 68px;
+    width: 250px;
+    border-radius: 14px;    
+}
+.second button:hover
+{
+    color: black;
+    background-color: white;
+    
+}
+.second {
+    display: flex; /* Enable Flexbox */
+    align-items: center; /* Vertically center items */
+    justify-content: space-between;
+    
+}
+.secondsec li
+{
+list-style: none;
+}
+.secondsec img
+{
+    width: 40rem;
+}
+div
+{
+    margin: 0px 0px 100px 0px;
+}
+.brands ul
+{
+    display: flex;
+    justify-content: space-between;
+}
+.brands li
+{
+    list-style-type: none;
+
+    color: black;
+}
+.brands img {
+    filter: grayscale(100%) brightness(0%); /* Make image black */
+    max-width: 100%; /* Ensure images scale properly */
+    height: auto; /* Maintain aspect ratio */
+}
+.third ul
+{
+    display: inline-flex;
+    list-style-type: none;
+}
+.third li:nth-child(2)
+{
+    margin-left: 10px;
+}
+ 
+
+
+
+
+
+
+
+
+
+.fourth
+{
+    display: flex;
+    
+}
+
+.fourthfirst {
+    padding: 55px 100px;
+    margin-left: 6px;
+    margin: 25px;
+    background-color: #F3F3F3   ;
+    border-radius: 10px;
+    border :1px solid black;
+}
+
+.fourthfirst li {
+    list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
+}
+
+
+.fourthfirst li:first-child {
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 50px;
+    margin-bottom: 20px;
+}
+
+
+ 
+
+.fourth {
+    display: flex;   
+    
+}
+
+.fourth ul
+{
+    display: flex;
+}
+.fourth span
+{
+    margin-top: 50px;
+}
+
+
+
+
+
+
+.fifth
+{
+    display: flex;
+}
+
+.fifthfirst {
+    padding: 55px 100px;
+    margin-left: 6px;
+    margin: 25px;
+    background-color: #B9FF66   ;
+    border-radius: 10px;
+    border :1px solid black;
+}
+
+.fifthfirst li {
+    list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
+}
+
+
+.fifthfirst li:first-child {
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 50px;
+    margin-bottom: 20px;
+}
+
+
+ 
+
+.fifth {
+    display: flex;   
+    
+}
+
+.fifth ul
+{
+    display: flex;
+}
+.fifth span
+{
+    margin-top: 50px;
+}
+
+
+.fourthsepehly
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.sixth ul
+{
+    display: inline-flex;
+    list-style-type: none;
+}
+.sixth li:nth-child(2)
+{
+    margin-left: 10px;
+}
+
+.accordion:active
+{
+    background-color: #B9FF66;
+}
+ 
